@@ -1,0 +1,3 @@
+  CREATE_STREAM @145000 {NAME:rseq T:Transactions SCOPE:uvm_test_top.env.agent.sqr STREAM:817}
+  CREATE_STREAM @915000 {NAME:bseq T:Transactions SCOPE:uvm_test_top.env.agent.sqr STREAM:1362}
+  CREATE_STREAM @145000 {NAME:s T:Transactions SCOPE:uvm_test_top.env.agent.sqr STREAM:811}
